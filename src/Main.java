@@ -1,5 +1,4 @@
 import java.util.Random;
-import java.util.Random;
 
 public class Main {
     public static int bossHealth = 850;
